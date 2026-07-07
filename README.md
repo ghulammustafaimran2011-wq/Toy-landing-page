@@ -1,2 +1,1 @@
-# Home-Work
-A collection of my web development homework, practice exercises, and personal projects created while learning programming.
+A beginner-level landing page project developed with HTML and CSS to practice web design, layouts, and frontend development fundamentals.
